@@ -71,6 +71,7 @@ $result = $conn->query($sql);
   </div>
 </nav>
     <div class="container">
+< p>As computer engineer and Apple co-founder Steve Wozniak famously said, "Never trust a computer you can't throw out a window".< /p>
         <h1 class="mb-4">Users</h1>
         <table class="table table-striped">
             <thead>
